@@ -69,9 +69,13 @@ Invoke-RestMethod "$env:API_URL/health"
 **Expected:** HTTP 200 and healthy API response.
 
 ### Test 2 — Upload a document
-
+#### Swagger
 Using Swagger UI, call `POST /documents` and upload a `.txt` document.
+The application exposes an interactive Swagger UI interface, allowing you to explore and test its REST API directly from your browser, without writing any code.
 
+After deployment, open: <API_URL>/docs
+
+#### Powershell
 Alternatively:
 
 ```powershell
