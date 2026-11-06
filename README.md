@@ -164,3 +164,19 @@ az group delete --name $env:RESOURCE_GROUP --yes
 ```
 
 **Warning:** This permanently deletes all resources in the lab resource group.
+
+---
+
+## 👨‍💻 About the Author
+
+**Abdelmohaimene TAYEB BEY**  
+*Ai & Cloud Platform Architect | Microsoft Certified Trainer (MCT)*
+
+I'm an AI Cloud Infrastructure Architect specializing in **Microsoft Azure cloud, Platform Engineering, DevSecOps, and AI Infrastructure**.
+
+I help organizations design secure, scalable AI & Cloud architectures, automate infrastructure and CI/CD pipelines, and industrialize the deployment of AI-powered applications.
+
+As a **Microsoft Certified Trainer**, I'm passionate about sharing knowledge through hands-on labs, technical training, and real-world demonstrations.
+
+🔗 **Connect with me and explore my content:**  
+https://linktr.ee/beytechbrief
