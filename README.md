@@ -7,9 +7,10 @@ Deploy and test an **end-to-end, event-driven document processing application** 
 The lab demonstrates how to combine **Cloud, Serverless, Messaging, Storage, Databases and Generative AI** to automatically classify and summarize uploaded documents.
 
 ## 2. Architecture
-
+### 2.1 System Architecture
 ![alt](./assets/architecture.svg)
 
+### 2.2 Request Flow
 ![alt](./assets/architecture-2.svg)
 
 **Application Insights** provides monitoring, execution logs and diagnostics.
